@@ -99,3 +99,5 @@ def write_point_cloud(ply_filename, points):
 [deep-video-mvs](https://github.com/ardaduz/deep-video-mvs)
 
 [如何将深度图转换为3D点云？](https://www.coder.work/article/2032574)
+
+[point2Cloud](https://github.com/vitalemonate/depth2Cloud)

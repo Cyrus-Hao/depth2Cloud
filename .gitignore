@@ -1,1 +1,28 @@
 .idea/
+
+# 忽略所有图片文件
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+*.ico
+*.svg
+
+# 忽略点云文件
+*.ply
+
+# 忽略临时文件
+*.tmp
+*.temp
+
+dataset/promptda/184
+dataset/promptda/459
+dataset/promptda/137/confidence
+dataset/promptda/137/point_clouds_original
+dataset/promptda/137/point_clouds_promptda
+dataset/promptda/137/super_resolution
+dataset/promptda/137/depth_maps1
